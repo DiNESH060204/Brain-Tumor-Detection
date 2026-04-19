@@ -25,6 +25,7 @@ efficacy in detecting brain tumors, thereby
 highlighting the potential of machine learning to
 significantly improve diagnostic accuracy and
 treatment outcomes.
+
 Keywords—Brain Tumor, Diagnosis, Machine
 learning, MRI scans, edge detection operators, Accuracy,
 Outcomes
