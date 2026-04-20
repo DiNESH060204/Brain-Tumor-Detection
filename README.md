@@ -5,8 +5,7 @@ This project compares 7 different operators: Scharr, Sobel, Canny, Prewitt, etc.
 Team Members :
 B Divya Lakshmi 
 Dinesh Kumar G
-# Comparative Study of Brain Tumor Types
-Interaction with Various Edge Detection Operators
+# Comparative Study of Brain Tumor Types Interaction with Various Edge Detection Operators
 
 Abstract - Brain tumors, whether malignant or benign,
 pose significant challenge in the medical field due to
